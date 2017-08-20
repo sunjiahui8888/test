@@ -1,10 +1,6 @@
 
 html,body{height:100%;/* z-index:1; */width: 100%;}
-<<<<<<< HEAD
 body{background-image: url(16331453C-8.jpg);background-color: #030303;background-repeat: no-repeat;background-size: cover;background-attachment: fixed;padding: 0px;margin: 0px;box-sizing:border-box;font-family: microsoft jhenhei;font-size: 18px;position: relative;}
-=======
-body{background-image: url(acc80c88b613b3fc7892c13a5c2f1c0fdf3d1e66.png);background-color: #030303;background-repeat: no-repeat;background-size: cover;background-attachment: fixed;padding: 0px;margin: 0px;box-sizing:border-box;font-family: microsoft jhenhei;font-size: 18px;position: relative;}
->>>>>>> 013b556bfb7ec9ce224f9ac31ca0f287aaf22e4e
 
 
 #cover{transition:all 1s}
